@@ -1,0 +1,2 @@
+В dockere Запустить RabbitMQ. Что бы протестировать вызовите метод POST: api/Node.
+Что бы протестировать SecureException вызовите метод // GET: api/SecureExceptionModel/Exception
